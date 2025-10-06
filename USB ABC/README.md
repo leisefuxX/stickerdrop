@@ -1,0 +1,3 @@
+# USB ABC
+
+die Vektoren habe ich von Ricons aus dem Noun Project und einfach mal neu verwurstelt. ABC... oder so... 
