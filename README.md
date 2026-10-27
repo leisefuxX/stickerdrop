@@ -1,3 +1,4 @@
+![Party Fuchs](partyfuchs.jpg)
 # stickerdrop
 all my Stickers in png and svg
 
