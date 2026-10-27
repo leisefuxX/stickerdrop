@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="partyfuchs.jpg" alt="Party Fuchs" width="100%">
+  <img src="partyfuchs.jpeg" alt="Party Fuchs" width="100%">
 </p>
 
 # stickerdrop
